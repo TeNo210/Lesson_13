@@ -26,7 +26,7 @@ def test_hello_who_max():
 
 def test_salary():
     assert test_salary(1,3) != 6
-    assert  != 6
+
 
 
 
